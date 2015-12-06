@@ -7,12 +7,12 @@
 
 ##Usage##
 #Horizontal#
-	 $(document).ready(function(){
+	$(document).ready(function(){
    		$('#Slider1').doubleRangeSlider();
    		
     });
- #vertical#
- 	 $(document).ready(function(){
+#vertical#
+ 	$(document).ready(function(){
  		$('#Slider2').doubleRangeSlider({
    			direction:'vertical'
    		});
