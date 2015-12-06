@@ -1,0 +1,9 @@
+.doubleRangeSlider{
+	position: relative;
+	margin:20px;
+	display: inline-block;
+}
+.doubleRangeSlider .dRSlider{
+	position: absolute;
+
+}
